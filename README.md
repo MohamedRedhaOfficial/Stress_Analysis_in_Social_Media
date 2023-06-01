@@ -1,4 +1,5 @@
 # Stress Analysis in Social Media
+![pic1](https://github.com/MohamedRedhaOfficial/Stress_Analysis_in_Social_Media/assets/126083924/f242006e-f75f-4768-84b2-6cae18479c04)
 
 A project where I analyse reddit posts extracted from different sub-reddits using Natural Language Tool Kit.
 
